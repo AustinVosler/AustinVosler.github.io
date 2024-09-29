@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -6,7 +6,7 @@ export default function Home() {
       <div className="flex flex-col xl:flex-row w-full h-full justify-between">
         <div className="w-full pb-4 pr-4 font-[family-name:var(--font-geist-mono)]">
           <div className="text-4xl pb-8 ">
-            Hi! I'm Austin
+            Hi! I'm project 2
           </div>
           <div className="text-2xl pb-4">
             I am a 3rd-year member of the Burnett Honors College at the University of Central Florida, where I am studying Computer Science.
@@ -18,14 +18,14 @@ export default function Home() {
           </div>
         </div>
           <div className="w-full h-full flex justify-center">
-            <Image 
+            {/* <Image 
               className="rounded-full aspect-square object-cover"
               src="/headshot.jpg"
               alt="headshot of Austin Vosler"
               // fill
               width="650"
               height="650"
-            />
+            /> */}
           </div>
       </div>
     </main>
