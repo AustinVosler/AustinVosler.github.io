@@ -12,11 +12,11 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
   weight: "100 900",
 });
-const hack = localFont({
-  src: "./fonts/hack-regular.woff",
-  variable: "--font-hack",
-  weight: "100 900"
-})
+// const hack = localFont({
+//   src: "./fonts/hack-regular.woff",
+//   variable: "--font-hack",
+//   weight: "100 900"
+// })
 
 export const metadata: Metadata = {
   title: "Austin Vosler",
