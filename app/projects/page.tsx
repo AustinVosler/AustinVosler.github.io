@@ -1,6 +1,4 @@
-// import Image from "next/image";\
-// import ProjectCard from "../components/ProjectCard";
-import WIP from "../components/WIP";
+import WIP from "@/app/components/WIP";
 
 export default function Home() {
   return (
