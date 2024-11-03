@@ -27,7 +27,7 @@ export default function Home() {
             <Image 
               className="rounded-full aspect-square object-cover"
               src="/headshot.jpg"
-              alt="headshot of Austin   Vosler"
+              alt="headshot of Austin Vosler"
               // fill
               width="500"
               height="500"

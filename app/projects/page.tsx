@@ -1,6 +1,6 @@
 // import Image from "next/image";\
 import ProjectCard from "../components/ProjectCard";
-import projectCard from "../components/ProjectCard";
+import WIP from "../components/WIP";
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
             Things I've Made:
           </div>
         </div>
-        <div className="w-full h-full flex justify-center">
+        <div className="w-full h-full ">
           <ProjectCard>
           </ProjectCard>
           <ProjectCard>
