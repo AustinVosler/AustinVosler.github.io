@@ -17,7 +17,7 @@ export default function Home() {
             Whether it is solving problems as a programmer, or adding to the world&#39;s beauty as a musician, it is important
             for me to find ways to both challenge myself and positively impact my community around me. 
           </div>
-          <Link href="/projects/project1">
+          <Link href="/projects">
             <button className="bg-sky-700 hover:bg-neutral-700 text-white font-bold py-2 px-4 rounded font-[family-name:var(--font-geist-mono)]">
               Button
             </button>
