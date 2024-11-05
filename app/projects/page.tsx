@@ -10,7 +10,7 @@ export default function Home() {
       <div className="w-full h-full justify-between">
         <div className="w-full pb-4 pr-4 flex justify-center font-[family-name:var(--font-geist-mono)]">
           <div className="text-5xl">
-            Things I've Made:
+            Things I&#39;ve Made:
           </div>
         </div>
         <div className="w-full h-full flex flex-col 2xl:flex-row justify-center">

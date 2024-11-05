@@ -15,7 +15,7 @@ export default function PCEncrypta()
         </div>
         <div className="text-xl pl-4 pr-4">
           A pair of encrypted handheld communication devices built from scratch out of OLED displays, keypads, and ESP32 WROOM microcontrollers.
-          Won "Best Hardware" and KnightHacksVII.
+          Won &quot;Best Hardware&quot; at KnightHacksVII.
         </div>
         <div className="absolute flex justify-center bottom-0 pb-1 w-full">
           <div className="text-lg">

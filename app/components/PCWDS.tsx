@@ -17,8 +17,8 @@ export default function PCWDS()
           </div>
         </div>
         <div className="text-xl pl-4 pr-4">
-          A pair of encrypted handheld communication devices built from scratch out of OLED displays, keypads, and ESP32 WROOM microcontrollers.
-          Won "Best Hardware" and KnightHacksVII.
+          A wizard roguelike where you can cast different spells to take out your enemies. <br />
+          Won &quot;2nd Overall&quot; in the KnightHacks 2024 Project Contest.
         </div>
         <div className="absolute flex justify-center bottom-0 pb-1 w-full">
           <div className="text-lg">
