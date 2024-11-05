@@ -1,5 +1,5 @@
 // import Image from "next/image";\
-import ProjectCardDefault from "../components/ProjectCardDefault";
+// import ProjectCardDefault from "../components/ProjectCardDefault";
 import PCEncrypta from "../components/PCEncrypta";
 import PCPortfolio from "../components/PCPortfolio";
 import PCWDS from "../components/PCWDS";
