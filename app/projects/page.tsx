@@ -34,3 +34,7 @@ export default function Home() {
     );
   }
   
+/*
+* w-[512]
+* w-[496]
+*/
