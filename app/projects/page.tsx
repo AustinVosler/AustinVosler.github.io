@@ -13,7 +13,7 @@ import PCWDS from "../components/PCWDS";
 
 export default function Home() {
   return (
-    <main className="min-h-screen min-w-screen p-4 xl:p-24 bg-zinc-900 w-full h-full">
+    <main className="min-h-screen xl:pt-12 bg-zinc-900 w-full">
       <div className="w-full h-full justify-between">
         <div className="w-full pb-4 pr-4 flex justify-center font-[family-name:var(--font-geist-mono)]">
           <div className="text-5xl">
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
         </div>
         <div className="w-full h-full flex flex-col xl:flex-row justify-center">
-          <div className="p-8">
+          <div className="p-8 pb-0">
             <PCPortfolio>
             </PCPortfolio>
           </div>
