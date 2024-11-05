@@ -1,6 +1,6 @@
 export default function PCEncrypta()
 {
-  return <div className="relative w-PC512 h-64 bg-violet-900 rounded-xl">
+  return <div className="relative w-[512px] h-64 bg-violet-900 rounded-xl">
       <div className=" absolute top-2 left-2 w-PC496 h-60 border-8 border-yellow-500 rounded-xl">
         <div className="relative text-3xl pt-2 pl-4 pb-2 flex justify-between">
           Encrypta
