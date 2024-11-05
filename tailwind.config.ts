@@ -13,6 +13,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      width: {
+        "PC512": "512px",
+        "PC496": "496px"
+      }
     },
   },
   plugins: [],

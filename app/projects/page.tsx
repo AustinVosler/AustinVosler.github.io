@@ -20,7 +20,7 @@ export default function Home() {
             Things I&#39;ve Made:
           </div>
         </div>
-        <div className="w-full h-full flex flex-col 2xl:flex-row justify-center">
+        <div className="w-full h-full flex flex-col xl:flex-row justify-center">
           <div className="p-8">
             <PCEncrypta>
             </PCEncrypta>
@@ -30,7 +30,7 @@ export default function Home() {
             </PCWDS>
           </div>
         </div>
-        <div className="w-full h-full flex flex-col 2xl:flex-row justify-center">
+        <div className="w-full h-full flex flex-col xl:flex-row justify-center">
           <div className="p-8">
             <PCPortfolio>
             </PCPortfolio>
