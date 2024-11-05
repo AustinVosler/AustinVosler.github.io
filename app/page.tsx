@@ -19,7 +19,12 @@ export default function Home() {
           </div>
           <Link href="/projects">
             <button className="bg-sky-700 hover:bg-neutral-700 text-white font-bold py-2 px-4 rounded font-[family-name:var(--font-geist-mono)]">
-              Button
+              See my projects!
+            </button>
+          </Link>
+          <Link href="/AustinVoslerResume11-5-24.pdf" target="pdf-frame" className="pl-4">
+            <button className="bg-sky-700 hover:bg-neutral-700 text-white font-bold py-2 px-4 rounded font-[family-name:var(--font-geist-mono)]">
+              Resume
             </button>
           </Link>
         </div>
