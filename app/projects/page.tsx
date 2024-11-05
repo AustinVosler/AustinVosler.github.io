@@ -4,6 +4,13 @@ import PCEncrypta from "../components/PCEncrypta";
 import PCPortfolio from "../components/PCPortfolio";
 import PCWDS from "../components/PCWDS";
 
+/*
+* w-[512]
+* w-512
+* w-[496]
+* w-496
+*/
+
 export default function Home() {
   return (
     <main className="min-h-screen min-w-screen p-4 xl:p-24 bg-zinc-900 w-full h-full">
@@ -33,8 +40,3 @@ export default function Home() {
     </main>
     );
   }
-  
-/*
-* w-[512]
-* w-[496]
-*/
