@@ -51,8 +51,8 @@ export default function SpinningWheel({ segments }: SpinningWheelProps)
             const endX = 50 + 50 * Math.cos((segmentAngle * (i + 1)) * (Math.PI / 180));
             const endY = 50 + 50 * Math.sin((segmentAngle * (i + 1)) * (Math.PI / 180));
 
-            const labelX = 50 + 35 * Math.cos((segmentAngle * (i + 0.5)) * (Math.PI / 180)); // Move text outward
-            const labelY = 50 + 35 * Math.sin((segmentAngle * (i + 0.5)) * (Math.PI / 180)); // Adjust placement
+            const labelX = 50 + 35 * Math.cos((segmentAngle * (i + 0.5)) * (Math.PI / 180));
+            const labelY = 50 + 35 * Math.sin((segmentAngle * (i + 0.5)) * (Math.PI / 180));
 
             const textRotation = (segmentAngle * i) + (segmentAngle / 2);
             const textFlip = textRotation > 90 && textRotation < 270 ? 180 : 0;
@@ -63,7 +63,7 @@ export default function SpinningWheel({ segments }: SpinningWheelProps)
                   d={`M50,50 L${startX},${startY} A50,50 0 0,1 ${endX},${endY} Z`}
                   fill={i % 2 === 0 ? "#FF0000" : "#000000"}
                   stroke="white"
-                  strokeWidth="2"
+                  strokeWidth="1"
                 />
                 <text
                   x={labelX}
