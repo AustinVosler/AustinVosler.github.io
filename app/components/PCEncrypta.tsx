@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function PCEncrypta()
 {
   return <div className="relative w-[512px] h-64 bg-violet-900 rounded-xl">

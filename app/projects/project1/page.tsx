@@ -1,6 +1,6 @@
 // import Image from "next/image";
-
-import WIP from "@/app/components/WIP";
+import React from "react";
+import WIP from "../../components/WIP";
 
 export default function Home() {
   return (

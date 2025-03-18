@@ -3,6 +3,7 @@
 import PCEncrypta from "../components/PCEncrypta";
 import PCPortfolio from "../components/PCPortfolio";
 import PCWDS from "../components/PCWDS";
+import React from "react";
 
 /*
 * w-[512]
