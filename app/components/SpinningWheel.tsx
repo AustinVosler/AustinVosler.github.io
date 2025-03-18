@@ -39,7 +39,7 @@ export default function SpinningWheel({ segments }: SpinningWheelProps)
 
     return (
       <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900">
-      <div className="relative w-[512] h-[512]">
+      <div className="relative w-[512px] h-[512px]">
         <div
           className="absolute inset-0 rounded-full border-4 border-gray-300 transition-transform duration-[3000ms] ease-out"
           style={{ transform: `rotate(${angle}deg)` }}
