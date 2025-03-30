@@ -12,7 +12,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black bg-opacity-60 z-0"></div>
 
         <div className="relative z-10 flex flex-col items-center">
-          <h1 className="text-5xl md:text-7xl font-extrabold text-white drop-shadow-md">Hi, I'm Austin</h1>
+          <h1 className="text-5xl md:text-7xl font-extrabold text-white drop-shadow-md">Hi, I&#39;m Austin</h1>
           <p className="mt-4 text-xl md:text-3xl text-gray-200 max-w-xl drop-shadow-sm">Developer • Musician • Lifelong Learner</p>
         </div>
       </section>
