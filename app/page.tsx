@@ -31,7 +31,7 @@ export default function Home() {
             for me to find ways to both challenge myself and positively impact my community around me. 
           </div>
           <div className="flex justify-center xl:justify-start gap-4 mt-4">
-            <Link href="/projectsNew">
+            <Link href="/projects">
               <button className="bg-zinc-800 hover:bg-zinc-700 text-white border border-zinc-600 font-bold py-2 px-6 rounded-md font-[family-name:var(--font-geist-mono)] shadow-md">
                 See my projects!
               </button>
